@@ -2,7 +2,7 @@
 
 Backend application used with [live-events-frontend](https://github.com/jonathanjacka/live-events-frontend).
 
-See full application [here](https://live-events.jonathanjacka.com/).
+See full application [here](https://live-events.vercel.app/).
 
 ## Acknowledgements
 
